@@ -1,0 +1,13 @@
+﻿生成启动时间为 2018/4/7 15:07:51。
+     1>项目“E:\work\gitwork\work\Win32Project1\Win32Project1\Win32Project1.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\新建文件夹\新建文件夹\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>e:\work\gitwork\work\win32project1\win32project1\myvector.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+                 e:\work\gitwork\work\win32project1\win32project1\myvector.h(153): 参见对正在编译的类 模板 实例化“myVector<T>”的引用
+     1>e:\work\gitwork\work\win32project1\win32project1\myvector.h(26): error C2143: 语法错误 : 缺少“,”(在“<”的前面)
+     1>已完成生成项目“E:\work\gitwork\work\Win32Project1\Win32Project1\Win32Project1.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.90
